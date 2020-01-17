@@ -1,6 +1,8 @@
 # A really-real time collaborative word processor for the web
 ![alt text](http://i.imgur.com/zYrGkg3.gif "Etherpad in action on PrimaryPad")
 
+**THIS REPO IS NO LONGER MAINTAINED**
+
 # About
 Etherpad is a really-real time collaborative editor maintained by the Etherpad Community.
 
